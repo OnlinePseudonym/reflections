@@ -15,4 +15,9 @@ history organized? How would branches help?
 A. When adding a new feature and you aren't sure how it will react with the
 code it's a good idea to start a new branch for that feature. If you have a beta
 version it'd be wise to branch and leave your release version untouched so you
-can continue to provide support for it. 
+can continue to provide support for it.
+
+Q. How do the diagrams help you visualize the branch structure?
+
+A. I can see how seperated and connected each branch is from one another and
+whether or not a change on a particular branch will effect another branch. 
