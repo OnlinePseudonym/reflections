@@ -20,4 +20,9 @@ can continue to provide support for it.
 Q. How do the diagrams help you visualize the branch structure?
 
 A. I can see how seperated and connected each branch is from one another and
-whether or not a change on a particular branch will effect another branch. 
+whether or not a change on a particular branch will effect another branch.
+
+Q. What is the result of merging two branches together? Why do we represent it i
+n the diagram the way we do?
+
+A. Merging two branches does as it says, it merges two branches together.
