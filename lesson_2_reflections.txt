@@ -2,3 +2,9 @@ Q. What happens when you initialize a repository? Why do you need to do it?
 
 A. It creates a hidden directory that contains my git data, you need to
 initialize before you can commit your repository
+
+Q. How can you use the staging area to make sure you have one commit per
+logical change?
+
+A. Use git diff to compare the staging area to the working directory before you
+commit.
