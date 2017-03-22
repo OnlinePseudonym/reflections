@@ -8,3 +8,11 @@ logical change?
 
 A. Use git diff to compare the staging area to the working directory before you
 commit.
+
+Q. What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+A. When adding a new feature and you aren't sure how it will react with the
+code it's a good idea to start a new branch for that feature. If you have a beta
+version it'd be wise to branch and leave your release version untouched so you
+can continue to provide support for it. 
