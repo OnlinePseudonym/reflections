@@ -1,0 +1,4 @@
+Q. What happens when you initialize a repository? Why do you need to do it?
+
+A. It creates a hidden directory that contains my git data, you need to
+initialize before you can commit your repository
