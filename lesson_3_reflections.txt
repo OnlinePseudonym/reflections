@@ -10,3 +10,13 @@ automatically stay up-to-date with your remote repository?
 A. I'm not certian, I suppose you could acheive the same thing by creating a new
 branch and working on that exclusively while git constantly updated your remote
 repository.
+
+Q. Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+A. A fork is a copy that is credited to the orginal but not directly linked, you
+would use this when you want to work on your own version of a repository. A
+clone is an exact copy of the original repository you can clone a copy from your
+online repository to a local one and vice versa. And a branch is a path from the
+orginal master of the original code that you could use to work one specific bug
+fixes and feature adds and easily merge with the master.
