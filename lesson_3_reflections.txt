@@ -20,3 +20,9 @@ clone is an exact copy of the original repository you can clone a copy from your
 online repository to a local one and vice versa. And a branch is a path from the
 orginal master of the original code that you could use to work one specific bug
 fixes and feature adds and easily merge with the master.
+
+Q. What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+A. being able to check your work against the last known stable state seems
+advantageous
