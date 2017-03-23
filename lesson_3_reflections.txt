@@ -26,3 +26,10 @@ stored locally?
 
 A. being able to check your work against the last known stable state seems
 advantageous
+
+Q. How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+A. I suppose group emailing code could work but it wouldn't be as efficient. The
+barrier for entry might be lower but I'd imagine after a while using git and
+github becomes like second nature so it makes little sense not to use it.
